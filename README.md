@@ -149,15 +149,12 @@ Contributions are welcome! If you'd like to contribute to this project:
 - [ ] Historical weather data
 - [ ] Air quality index
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-**Yuzuki-Kun**
+**yuzikage**
 
-- GitHub: [@Yuzuki-Kun](https://github.com/Yuzuki-Kun)
+- GitHub: [@yuzikage](https://github.com/yuzikage)
 
 ## 🙏 Acknowledgments
 
