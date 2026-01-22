@@ -4,7 +4,6 @@ A modern, responsive weather application built with React that provides real-tim
 
 ![React](https://img.shields.io/badge/React-18.x-blue.svg)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## 📋 Overview
 
